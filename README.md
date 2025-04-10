@@ -17,7 +17,7 @@ This is a simple Rock-Paper-Scissors web game built with Python and Flask.
    ```
 3. Run the app:
    ```bash
-   python app.py
+   python game.py
    ```
 4. Open in your browser:
    ```
